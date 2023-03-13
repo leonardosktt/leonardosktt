@@ -38,6 +38,9 @@
 ![CSS](https://img.shields.io/badge/-grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=#F46800&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0D1117)&nbsp;
+  <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![CSS](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/Slack-0D1117?style=for-the-badge&logo=slack&logoColor=4A154B&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
