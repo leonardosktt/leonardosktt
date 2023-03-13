@@ -19,7 +19,7 @@
 </div>
 
 ### Tools:
-![CSS](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=zabbix&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)&nbsp;
